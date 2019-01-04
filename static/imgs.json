@@ -1,0 +1,109 @@
+{
+  "imgs":[
+    {
+      "url":"http://localhost/lancomeimgs/1.jpg",
+      "title":"繁星璀璨"
+    },{
+      "url":"http://localhost/lancomeimgs/2.jpg",
+      "title":"宠爱升级"
+    },{
+      "url":"http://localhost/lancomeimgs/3.jpg",
+      "title":"美丽人生"
+    }
+  ],
+  "content":[
+    [{
+      "url": "http://localhost/lancomeimgs/4.jpg",
+      "name": "持久粉底棒礼盒",
+      "des": "快速上妆 约会不迟到",
+      "price":"299"
+    },
+      {
+        "url": "http://localhost/lancomeimgs/5.jpg",
+        "name": "持久粉底棒礼盒",
+        "des": "快速上妆 约会不迟到",
+        "price":"299"
+      },
+      {
+        "url": "http://localhost/lancomeimgs/6.jpg",
+        "name": "持久粉底棒礼盒",
+        "des": "快速上妆 约会不迟到",
+        "price":"299"
+      },
+      {
+        "url": "http://localhost/lancomeimgs/7.jpg",
+        "name": "持久粉底棒礼盒",
+        "des": "快速上妆 约会不迟到",
+        "price":"299"
+      }],
+    [{
+      "url": "http://localhost/lancomeimgs/4.jpg",
+      "name": "持久粉底棒礼盒",
+      "des": "快速上妆 约会不迟到",
+      "price":"299"
+    },
+      {
+        "url": "http://localhost/lancomeimgs/5.jpg",
+        "name": "持久粉底棒礼盒",
+        "des": "快速上妆 约会不迟到",
+        "price":"299"
+      },
+      {
+        "url": "http://localhost/lancomeimgs/6.jpg",
+        "name": "持久粉底棒礼盒",
+        "des": "快速上妆 约会不迟到",
+        "price":"299"
+      },
+      {
+        "url": "http://localhost/lancomeimgs/7.jpg",
+        "name": "持久粉底棒礼盒",
+        "des": "快速上妆 约会不迟到",
+        "price":"299"
+      }],
+    [{
+      "url": "http://localhost/lancomeimgs/4.jpg",
+      "name": "持久粉底棒礼盒",
+      "des": "快速上妆 约会不迟到",
+      "price":"299"
+    },
+      {
+        "url": "http://localhost/lancomeimgs/5.jpg",
+        "name": "持久粉底棒礼盒",
+        "des": "快速上妆 约会不迟到",
+        "price":"299"
+      },
+      {
+        "url": "http://localhost/lancomeimgs/6.jpg",
+        "name": "持久粉底棒礼盒",
+        "des": "快速上妆 约会不迟到",
+        "price":"299"
+      },
+      {
+        "url": "http://localhost/lancomeimgs/7.jpg",
+        "name": "持久粉底棒礼盒",
+        "des": "快速上妆 约会不迟到",
+        "price":"299"
+      }]
+
+    ],
+  "contentlast":[
+    {
+      "url": "http://localhost/lancomeimgs/01.jpg",
+      "name":"预约服务",
+      "title": "关注并绑定微信可预约专属服务",
+      "inter": "立即体验"
+    },{
+      "url": "http://localhost/lancomeimgs/02.gif",
+      "name":"预约服务",
+      "title": "关注并绑定微信可预约专属服务",
+      "inter": "了解更多"
+    },{
+      "url": "http://localhost/lancomeimgs/03.jpg",
+      "name":"预约服务",
+      "title": "关注并绑定微信可预约专属服务",
+      "inter": "即刻携刻"
+    }
+
+  ]
+  }
+
